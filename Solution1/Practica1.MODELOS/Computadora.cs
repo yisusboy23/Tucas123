@@ -8,7 +8,7 @@ namespace Practica1.MODELOS
 {
     public class Computadora
     {
-        public string IdComputadora { get; set; }
+        public int IdComputadora { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
         public decimal Precio { get; set; }
